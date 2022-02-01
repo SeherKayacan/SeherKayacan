@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Seher KAYACAN</h1>
-<h3 align="center">Fronted Developer</h3>
+
 
 - 🔭 [Selenium Web Otomasyon](Testinium)
 
-- 💬 Ask me about **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
