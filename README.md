@@ -1,4 +1,4 @@
-<h1 >Hi 👋, I'm Seher KAYACAN</h1>
+<h1 > I'm Seher KAYACAN</h1>
 
 
 - 🔭 [Selenium Web Otomasyon](Testinium)
@@ -6,6 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <img src="ss.jpg" width="auto">
 <a href="https://twitter.com/seherkayacan4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seherkayacan4" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/seherkayacan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/seher-kayacan-051286148//seher-kayacan-051286148/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/can_kaya_seher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/can_kaya_seher" height="30" width="40" /></a>
