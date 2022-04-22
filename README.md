@@ -1,4 +1,4 @@
-<h1 > I'm Seher KAYACAN</h1>
+<h1 align="center" > I'm Seher KAYACAN</h1>
 
 
 - 🔭 [Selenium Web Otomasyon](Testinium)
